@@ -1,0 +1,17 @@
+.image {
+    background-image: url(image/img.jpg);
+    font-weight: bold;
+    width: 30%;
+    height: 200px;
+}
+span {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/M/MV5BMTEyODk5NTc2MjNeQTJeQWpwZ15BbWU4MDQ5NTgwOTkx._V1_UY1200_CR90,0,630,1200_AL_.jpg);
+    width: 300px;
+    height: 100px;
+}
+img {
+    width: 30%;
+}
+strong {
+    font-weight: normal;
+}
